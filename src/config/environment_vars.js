@@ -6,7 +6,7 @@ _ = require('lodash');
 
 vars = {
 
-  NODE_ENV: 'development',
+  NODE_ENV: 'production',
   PORT: 3001,
   DEFAULT_SOURCE: 's3',
   EXCLUDE_SOURCES: null, // add comma delimited list
